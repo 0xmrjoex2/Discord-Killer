@@ -1,0 +1,7 @@
+python -m pip install certifi==2024.7.4
+python -m pip install charset-normalizer==3.3.2
+python -m pip install colorama==0.4.6
+python -m pip install fade==0.0.9
+python -m pip install idna==3.8
+python -m pip install requests==2.32.3
+python -m pip install urllib3==2.2.2
